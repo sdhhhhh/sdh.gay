@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" href="index.css">
+  <link href="https://cdn.jsdelivr.net/gh/hung1001/font-awesome-pro-v6@44659d9/css/all.min.css" rel="stylesheet" type="text/css" />
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+<html>
+<body>
+
+<div class="bgimg">
+  <div class="middle">
+    <h1>Emily's Vendetta Plugins</h1>
+    <font size="-0.5">To install a plugin copy the link and paste it into Vendetta.</font>
+    <hr>
+    <i class="fa-solid fa-face-laugh fa-xs"></i><a href="https://sdhhhhh.github.io/vd-plugins/LoveFemboys"> GotFemboys</a> 
+  </div>
+</div>
+
+</body>
+</html>
+
